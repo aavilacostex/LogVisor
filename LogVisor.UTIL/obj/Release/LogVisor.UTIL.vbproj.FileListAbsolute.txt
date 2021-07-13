@@ -1,0 +1,13 @@
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\bin\Release\LogVisor.UTIL.dll
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\bin\Release\LogVisor.UTIL.pdb
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\bin\Release\LogVisor.UTIL.xml
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\bin\Release\IBM.Data.DB2.iSeries.dll
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\bin\Release\IBM.Data.DB2.iSeries.xml
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.vbprojAssemblyReference.cache
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.Resources.resources
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.vbproj.GenerateResource.cache
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.vbproj.CoreCompileInputs.cache
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.vbproj.CopyComplete
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.dll
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.xml
+C:\Users\aavila\source\repos\Web-Base Projects\LogVisor\LogVisor.UTIL\obj\Release\LogVisor.UTIL.pdb

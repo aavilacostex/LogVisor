@@ -1,0 +1,500 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LogVisor
+</name>
+</assembly>
+<members>
+<member name="T:LogVisor.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:LogVisor.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:LogVisor.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:LogVisor.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:LogVisor.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:LogVisor.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:LogVisor._Default._updatepnl">
+<summary>
+updatepnl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._btnNewItem">
+<summary>
+btnNewItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._btnImportExcel">
+<summary>
+btnImportExcel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._btnImportFromLs">
+<summary>
+btnImportFromLs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._showActionsSection">
+<summary>
+showActionsSection control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._rdUser">
+<summary>
+rdUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._rdType">
+<summary>
+rdType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._ddlUser">
+<summary>
+ddlUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._ddlType">
+<summary>
+ddlType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hiddenId4">
+<summary>
+hiddenId4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hiddenId5">
+<summary>
+hiddenId5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hiddenName">
+<summary>
+hiddenName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hdLinkExpand">
+<summary>
+hdLinkExpand control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hdTriggeredControl">
+<summary>
+hdTriggeredControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hdLaunchControl">
+<summary>
+hdLaunchControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._hdSelectedClass">
+<summary>
+hdSelectedClass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._ndtt">
+<summary>
+ndtt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._lblGrvGroup">
+<summary>
+lblGrvGroup control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._gridSection">
+<summary>
+gridSection control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor._Default._grvLogs">
+<summary>
+grvLogs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._updatepnl">
+<summary>
+updatepnl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._btnNewItem">
+<summary>
+btnNewItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._btnImportExcel">
+<summary>
+btnImportExcel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._btnImportFromLs">
+<summary>
+btnImportFromLs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._showActionsSection">
+<summary>
+showActionsSection control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._rdUser">
+<summary>
+rdUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._rdType">
+<summary>
+rdType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._ddlUser">
+<summary>
+ddlUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._ddlType">
+<summary>
+ddlType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hiddenId4">
+<summary>
+hiddenId4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hiddenId5">
+<summary>
+hiddenId5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hiddenName">
+<summary>
+hiddenName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hdLinkExpand">
+<summary>
+hdLinkExpand control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hdTriggeredControl">
+<summary>
+hdTriggeredControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hdLaunchControl">
+<summary>
+hdLaunchControl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._hdSelectedClass">
+<summary>
+hdSelectedClass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._ndtt">
+<summary>
+ndtt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._lblGrvGroup">
+<summary>
+lblGrvGroup control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._gridSection">
+<summary>
+gridSection control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.MainPage._grvLogs">
+<summary>
+grvLogs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.SiteMaster._sc1">
+<summary>
+sc1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.SiteMaster._panelUpdateProgress">
+<summary>
+panelUpdateProgress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.SiteMaster._UpdateProgress1">
+<summary>
+UpdateProgress1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.SiteMaster._ventanaModal">
+<summary>
+ventanaModal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:LogVisor.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

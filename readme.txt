@@ -1,0 +1,1 @@
+Logs application to check the apps behavior
