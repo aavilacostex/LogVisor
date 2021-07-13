@@ -1,1 +1,1 @@
-Logs application to check the apps behavior
+Logs application to check the apps behavior!!
